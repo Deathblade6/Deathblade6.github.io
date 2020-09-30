@@ -262,3 +262,8 @@ svgpong = function () {
     // Start animating
     requestAnimationFrame(animate);
 }
+#include<stdio.h>
+Int main()
+{
+Printf("hello");
+}
